@@ -1,1 +1,2 @@
-Ffrom linux
+From linux
+Cheanged from the window machine
